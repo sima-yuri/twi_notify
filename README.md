@@ -1,1 +1,1 @@
-#特定ユーザーのTwitterをLINEで通知する
+#高梨有咲のTwitterをLINEで通知する
